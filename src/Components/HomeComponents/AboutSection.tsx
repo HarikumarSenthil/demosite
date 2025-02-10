@@ -18,7 +18,7 @@ const HomeAboutSection: React.FC = () => {
           <p className="text-liteblack mb-6 font-lato text-size-20 font-custom-500 leading-custom-30 max-w-xs md:max-w-lg lg:max-w-none">
             We are dedicated to delivering exceptional healthcare services,
             blending medical expertise with compassion. Our team provides
-            personalized care tailored to each patient's needs, ensuring a
+            personalized care tailored to each patients needs, ensuring a
             positive healthcare experience. Trust us to be your partner in
             health and well-being.
           </p>
